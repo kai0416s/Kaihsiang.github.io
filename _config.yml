@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Kai Hsiang Hsieh (謝凱翔)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #
   location         : "Taiwan Kaohsiung"
   employer         : "National Chung Cheng University"
   uri              : # URL
