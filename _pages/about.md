@@ -8,14 +8,17 @@ redirect_from:
 ---
 🚀 Welcome to My GitHub Page!
 
-👋 Hi! I'm Kai Hsiang Hsieh, a MSc student at 🏫 National Chung Cheng University, Department of Electrical Engineering ⚡.
+👋 Hi! I'm Kai Hsiang Hsieh, a master's student at 🏫 National Chung Cheng University, Department of Electrical Engineering ⚡.
 
 💡 My research focuses on image processing, video compression, and point cloud compression.
 
 🔍 Research Interests
+
 🔹 Image Processing 
+
 🔹 Video Compression 
-🔹 Point Cloud Compression 🏗
+
+🔹 Point Cloud Compression
 
 ⚙️ Current Work
 
