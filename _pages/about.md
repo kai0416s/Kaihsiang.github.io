@@ -11,7 +11,9 @@ Hi! I'm Kai Hsiang Hsieh, a master's student at National Chung Cheng University,
 
 🔍 Research Interests
 Image Processing
+
 Video Compression
+
 Point Cloud Compression
 
 🚀 Current Work
