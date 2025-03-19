@@ -28,5 +28,3 @@ Check out my repositories for my latest research and projects!
 
 📫 Connect with Me
 Feel free to reach out or collaborate!
-
-🔗 [GitHub](https://github.com/kai0416s) | 📧 Email : s69924246@gmail.com
