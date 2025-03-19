@@ -22,9 +22,7 @@ redirect_from:
 
 ⚙️ Current Work
 
-🚀 Designing and optimizing efficient point cloud compression techniques for geometry and attribute.
-
-🔬 Exploring advanced neural networks to enhance compression performance.
+🚀 Designing and optimizing efficient point cloud compression techniques for geometry and attribute.Exploring advanced neural networks to enhance compression performance.
 
 Check out my repositories for my latest research and projects!
 
