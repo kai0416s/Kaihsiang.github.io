@@ -24,11 +24,15 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Kai Hsiang Hsieh (謝凱翔)"
+  
   pronouns         : # example: "she/her"  
   bio              : #
   location         : "Taiwan Kaohsiung"
+  
   employer         : "National Chung Cheng University"
+  
   uri              : # URL
+  
   email            : "s69924246@gmail.com" 
 
   # Academic websites
