@@ -13,7 +13,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://https://kai0416s.github.io/Kaihsiang.github.io/"
+url                      : "https://https://kai0416s.github.io/Kaihsiang.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -26,8 +26,8 @@ author:
   name             : "Kai Hsiang Hsieh (謝凱翔)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Taiwan Kaohsiung"
+  employer         : "National Chung Cheng University"
   uri              : # URL
   email            : "s69924246@gmail.com" 
 
