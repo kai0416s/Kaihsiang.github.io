@@ -6,18 +6,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
+🚀 Welcome to My GitHub Page!
 
-Hi! I'm Kai Hsiang Hsieh, a master's student at National Chung Cheng University, Department of Electrical Engineering. My research focuses on image processing, video compression, and point cloud compression.
+👋 Hi! I'm Kai Hsiang Hsieh, a MSc student at 🏫 National Chung Cheng University, Department of Electrical Engineering ⚡.
+
+💡 My research focuses on image processing, video compression, and point cloud compression.
 
 🔍 Research Interests
-Image Processing
+🔹 Image Processing 
+🔹 Video Compression 
+🔹 Point Cloud Compression 🏗
 
-Video Compression
+⚙️ Current Work
 
-Point Cloud Compression
+🚀 Designing and optimizing efficient point cloud compression techniques for geometry and attribute.
 
-🚀 Current Work
-I am exploring efficient data compression techniques and optimization strategies to enhance image and video processing applications. Check out my repositories for my latest research and projects!
+🔬 Exploring advanced neural networks to enhance compression performance.
+
+Check out my repositories for my latest research and projects!
 
 📫 Connect with Me
 Feel free to reach out or collaborate!
