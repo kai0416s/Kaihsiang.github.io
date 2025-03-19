@@ -20,4 +20,4 @@ I am exploring efficient data compression techniques and optimization strategies
 📫 Connect with Me
 Feel free to reach out or collaborate!
 
-🔗 [GitHub](https://github.com/kai0416s) | 📧 [Email](s69924246@gmail.com)
+🔗 [GitHub](https://github.com/kai0416s) | 📧 Email : s69924246@gmail.com
