@@ -10,7 +10,7 @@ redirect_from:
 
 👋 Hi! I'm Kai Hsiang Hsieh, a master's student at 🏫 National Chung Cheng University, Department of Electrical Engineering ⚡.
 
-💡 My research focuses on image processing, video compression, and point cloud compression.
+My research focuses on image processing, video compression, and point cloud compression.
 
 🔍 Research Interests
 
